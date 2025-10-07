@@ -21,3 +21,8 @@ The following projects were completed following the **[CodeCademy](https://www.c
 [Project 2: Harry Potter Sorting Hat Quiz](sortingHatQuiz.cpp)
 
 [Project 3: Rock, Paper, Scissors, Lizard, Spock](rockPaperScissorsLizardSpock.cpp)
+
+# Chapter 4: Loops
+
+[Project 1: Fizz Buzz](fizzBuzz.cpp)
+
