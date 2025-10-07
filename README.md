@@ -2,11 +2,11 @@
 
 The following projects were completed following the **[CodeCademy](https://www.codecademy.com/)** [Learn C++: Introduction](https://www.codecademy.com/enrolled/courses/learn-c-plus-plus-introduction) courses.
 
-# Chapter 1: Hello World
+## Chapter 1: Hello World
 
 [Project 1: Building Blocks](buildingBlocks.cpp)
 
-# Chapter 2: Variables
+## Chapter 2: Variables
 
 [Project 1: Dog Years](dogYears.cpp)
 
@@ -14,7 +14,7 @@ The following projects were completed following the **[CodeCademy](https://www.c
 
 [Project 3: Currency Conversion](currencyConversion.cpp)
 
-# Chapter 3: Condtionals & Logic
+## Chapter 3: Condtionals & Logic
 
 [Project 1: Magic 8-Ball](magic8Ball.cpp)
 
