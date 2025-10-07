@@ -22,7 +22,10 @@ The following projects were completed following the **[CodeCademy](https://www.c
 
 [Project 3: Rock, Paper, Scissors, Lizard, Spock](rockPaperScissorsLizardSpock.cpp)
 
-# Chapter 4: Loops
+### **[Certificate of Completion](https://www.codecademy.com/profiles/CosmicDawg32/certificates/edc9d8b145f845159ba1a10533c3b074)** for Chapters 1 - 3
+
+## Chapter 4: Loops
 
 [Project 1: Fizz Buzz](fizzBuzz.cpp)
 
+### **[Certificate of Completion](https://www.codecademy.com/profiles/CosmicDawg32/certificates/3de27fdca0a541318be302cd5f0ab55d)** for Chapter 4
