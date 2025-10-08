@@ -1,6 +1,6 @@
 /*  Author: Nicholas Bleeker
     Date: 10/7/2025
-    Project: Learn C++: Introduction (Ch.4, Project 1)
+    Project: Learn C++: Loops (Ch.4, Project 1)
     Description: Write a C++ program that outputs numbers 1 - 100.
         For multiples of 3 print "Fizz", multiples of 5 print "Buzz", and numbers which are multiples of both 3 and 5 print "FizzBuzz". 
         Create a for loop version and a while loop version.
