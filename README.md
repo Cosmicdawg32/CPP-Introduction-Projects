@@ -29,3 +29,9 @@ The following projects were completed following the **[CodeCademy](https://www.c
 [Project 1: Fizz Buzz](fizzBuzz.cpp)
 
 ### **[Certificate of Completion](https://www.codecademy.com/profiles/CosmicDawg32/certificates/3de27fdca0a541318be302cd5f0ab55d)** for Chapter 4
+
+## Chapter 5: Vectors
+
+[Project 1: Whale Talk](whaleTalk.cpp)
+
+### **[Certificate of Completion](https://www.codecademy.com/profiles/CosmicDawg32/certificates/67907c97d4e04faabfb6dc06e6459139)** for Chapter 5
