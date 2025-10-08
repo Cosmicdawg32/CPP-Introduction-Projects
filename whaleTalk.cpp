@@ -1,6 +1,6 @@
 /*  Author: Nicholas Bleeker
     Date: 10/7/2025
-    Project: Learn C++: Introduction (Ch.5, Project 1)
+    Project: Learn C++: Vectors (Ch.5, Project 1)
     Description: Write a C++ program that promts the user for a string to convert to "whale talk".
         Whale talk consist of only vowles (excluding y) with 'u' and 'e' being doubled.
         e.g. "turpentine and turtles" translates to "uueeieeauuee".
