@@ -45,3 +45,9 @@ The following projects were completed following the **[CodeCademy](https://www.c
 ## Learn C++: Functions
 
 ### Chapter 6: Functions
+Project 1: UFO Hangman
+<br>[main file](ufoHangMan.cpp) 
+<br>[header file](ufo_functions.hpp)
+<br>[functions file](ufo_functions.cpp)
+
+#### **[Certificate of Completion](https://www.codecademy.com/profiles/CosmicDawg32/certificates/284f66fe8c5745f886598714a6d9938b)** for [Learn C++: Functions](https://www.codecademy.com/enrolled/courses/learn-c-plus-plus-functions)
